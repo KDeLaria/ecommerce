@@ -6,7 +6,7 @@ node_modules/
 .vscode
 .vscode/
 package-lock.json
-
+.git_old
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
